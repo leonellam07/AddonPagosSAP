@@ -1,0 +1,11 @@
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\bin\x86\Debug\AddonTestCadel.exe.config
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\bin\x86\Debug\AddonTestCadel.exe
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\bin\x86\Debug\AddonTestCadel.pdb
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\obj\x86\Debug\AddonTestCadel.csprojAssemblyReference.cache
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\obj\x86\Debug\AddonTestCadel.csproj.ResolveComReference.cache
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\obj\x86\Debug\AddonTestCadel.Properties.Resources.resources
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\obj\x86\Debug\AddonTestCadel.csproj.GenerateResource.cache
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\obj\x86\Debug\AddonTestCadel.exe
+C:\Users\JorgeLam\source\repos\AddonTestCadel\AddonTestCadel\obj\x86\Debug\AddonTestCadel.pdb
